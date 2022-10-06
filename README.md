@@ -24,3 +24,4 @@ This is the second project to React Native Development, delievered farily quickl
 - Installation of Android SDK and Xcode is very time consuming and somewhat conbersome. Difficult to understand what is happening under 
 the hoood. 
 
+<img width="386" alt="Screen Shot 2022-10-06 at 4 34 51 PM" src="https://user-images.githubusercontent.com/4963988/194341637-a91af4b2-3a7e-47a7-adc4-e8bcc7e05719.png">
